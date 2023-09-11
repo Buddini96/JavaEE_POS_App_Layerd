@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="json-p">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BackEnd/src/lk/ijse/pos/lib/javax.json-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BackEnd/src/lk/ijse/pos/lib/javax.json-api-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BackEnd/src/lk/ijse/pos/lib/mysql-connector-j-8.1.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/BackEnd/src/lk/ijse/pos/lib/json-p" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/BackEnd/src/lk/ijse/pos/lib/json-p" recursive="false" />
+  </library>
+</component>
